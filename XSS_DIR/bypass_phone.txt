@@ -1,0 +1,3 @@
++49/>"<iframe src=http://vulnerability-lab.com>1337
+"><iframe src='' onload=alert('mphone')>
+<iframe src=http://vulnerability-lab.com>1337+1

